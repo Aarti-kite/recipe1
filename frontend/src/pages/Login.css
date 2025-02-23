@@ -1,0 +1,41 @@
+
+.login-container {
+    background: url("https://media.istockphoto.com/id/1313187927/vector/cooking-food-and-vegetables-background.jpg?s=1024x1024&w=is&k=20&c=qGzey7Xa7D3ACHKrxjvCcDbL7PFuFwrTX2WzhTwRx10=") no-repeat center center/cover;
+    height: 70vh;
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background-color: hsla(74, 83%, 35%, 0.808);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+  
+  input {
+    width: 100%;
+    padding: 0.8rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  button {
+    padding: 0.8rem 1.5rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
